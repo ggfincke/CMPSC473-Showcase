@@ -39,9 +39,8 @@ Extends a minimalist OS kernel with new system calls and process-level features.
 ### 💻 Setup
 To clone this repo with all project folders:
 ```bash
-git clone https://github.com/YOURUSERNAME/cmpsc473-showcase
+git clone https://github.com/ggfincke/cmpsc473-showcase
 ```
-
+---
 ### 📚 Course Info
 CMPSC 473 — Operating Systems
-Semester: Fall 2023
