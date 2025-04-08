@@ -1,0 +1,9 @@
+[submodule "p1-memory-management"]
+	path = p1-memory-management
+	url = https://github.com/PSU-CMPSC473-FA23/p1-group5
+[submodule "p2-thread-scheduler"]
+	path = p2-thread-scheduler
+	url = https://github.com/PSU-CMPSC473-FA23/p2-sgroup118
+[submodule "p3-system-call-interface"]
+	path = p3-system-call-interface
+	url = https://github.com/PSU-CMPSC473-FA23/p3-tgroup118
